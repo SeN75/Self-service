@@ -1,0 +1,37 @@
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Start.resources
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Arabic.resources
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form6.resources
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form7.resources
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.students_Tabels.resources
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe.config
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe.manifest
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.application
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.pdb
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe.manifest
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.application
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.pdb
+G:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe.config
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.pdb
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe.manifest
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.application
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.pdb
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Start.resources
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Arabic.resources
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form6.resources
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form7.resources
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.students_Tabels.resources
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe.manifest
+E:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.application
+F:\ \WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe.config
+F:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe
+F:\ \WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.pdb
