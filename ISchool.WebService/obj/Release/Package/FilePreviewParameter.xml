@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="eltayeb2-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Eltay\\documents\\visual\ studio\ 2015\\Projects\\ISchool\\ISchool\.WebService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Eltay\\documents\\visual\ studio\ 2015\\Projects\\ISchool\\ISchool\.WebService\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="obksdatabaserrEntities-Web.config Connection String" description="" value="metadata=res://*/DataBasePart.db.csdl|res://*/DataBasePart.db.ssdl|res://*/DataBasePart.db.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=mssql4.gear.host;initial catalog=obksdatabaserr;user id=obksdatabaserr;password=Ut5Fwn7Jl!R~;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Eltay\\documents\\visual\ studio\ 2015\\Projects\\ISchool\\ISchool\.WebService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='obksdatabaserrEntities']/@connectionString" />
+  </parameter>
+</parameters>

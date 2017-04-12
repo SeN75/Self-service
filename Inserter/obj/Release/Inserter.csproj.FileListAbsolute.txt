@@ -1,0 +1,10 @@
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Release\Inserter.exe.config
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\obj\Release\Inserter.csproj.ResolveComReference.cache
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Release\Inserter.exe
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Release\Inserter.pdb
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Release\EntityFramework.dll
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Release\EntityFramework.xml
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\obj\Release\Inserter.exe
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\obj\Release\Inserter.pdb

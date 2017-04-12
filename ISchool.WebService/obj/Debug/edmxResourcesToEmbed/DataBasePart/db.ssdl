@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="obksdatabaserrModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="st_students">
+    <Key>
+      <PropertyRef Name="st_acc" />
+    </Key>
+    <Property Name="st_acc" Type="varchar" MaxLength="5" Nullable="false" />
+    <Property Name="st_name" Type="nvarchar" MaxLength="150" />
+    <Property Name="st_subject1" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject1_place" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject2" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject2_place" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject3" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject3_place" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject4" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject4_place" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject5" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject5_place" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject6" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject6_place" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject7" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject7_place" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject8" Type="nchar" MaxLength="100" />
+    <Property Name="st_subject8_place" Type="nchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="obksdatabaserrModelStoreContainer">
+    <EntitySet Name="st_students" EntityType="Self.st_students" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

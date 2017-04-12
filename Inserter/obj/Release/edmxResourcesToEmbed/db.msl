@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="school_i_dbModelStoreContainer" CdmEntityContainer="school_i_dbEntities">
+    <EntitySetMapping Name="st_students">
+      <EntityTypeMapping TypeName="school_i_dbModel.st_students">
+        <MappingFragment StoreEntitySet="st_students">
+          <ScalarProperty Name="st_acc" ColumnName="st_acc" />
+          <ScalarProperty Name="st_name" ColumnName="st_name" />
+          <ScalarProperty Name="st_national_number" ColumnName="st_national_number" />
+          <ScalarProperty Name="st_subject1" ColumnName="st_subject1" />
+          <ScalarProperty Name="st_subject1_place" ColumnName="st_subject1_place" />
+          <ScalarProperty Name="st_subject2" ColumnName="st_subject2" />
+          <ScalarProperty Name="st_subject2_place" ColumnName="st_subject2_place" />
+          <ScalarProperty Name="st_subject3" ColumnName="st_subject3" />
+          <ScalarProperty Name="st_subject3_place" ColumnName="st_subject3_place" />
+          <ScalarProperty Name="st_subject4" ColumnName="st_subject4" />
+          <ScalarProperty Name="st_subject4_place" ColumnName="st_subject4_place" />
+          <ScalarProperty Name="st_subject5" ColumnName="st_subject5" />
+          <ScalarProperty Name="st_subject5_place" ColumnName="st_subject5_place" />
+          <ScalarProperty Name="st_subject6" ColumnName="st_subject6" />
+          <ScalarProperty Name="st_subject6_place" ColumnName="st_subject6_place" />
+          <ScalarProperty Name="st_subject7" ColumnName="st_subject7" />
+          <ScalarProperty Name="st_subject7_place" ColumnName="st_subject7_place" />
+          <ScalarProperty Name="st_subject8" ColumnName="st_subject8" />
+          <ScalarProperty Name="st_subject8_place" ColumnName="st_subject8_place" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

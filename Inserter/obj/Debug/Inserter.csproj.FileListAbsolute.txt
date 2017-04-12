@@ -1,0 +1,15 @@
+c:\users\eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Debug\Inserter.exe.config
+c:\users\eltay\documents\visual studio 2015\Projects\ISchool\Inserter\obj\Debug\Inserter.csproj.ResolveComReference.cache
+c:\users\eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Debug\Inserter.exe
+c:\users\eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Debug\Inserter.pdb
+c:\users\eltay\documents\visual studio 2015\Projects\ISchool\Inserter\obj\Debug\Inserter.exe
+c:\users\eltay\documents\visual studio 2015\Projects\ISchool\Inserter\obj\Debug\Inserter.pdb
+c:\users\eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Debug\EntityFramework.dll
+c:\users\eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Debug\EntityFramework.xml
+c:\users\eltay\documents\visual studio 2015\Projects\ISchool\Inserter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eltay\documents\visual studio 2015\Projects\ISchool\Inserter\obj\Debug\Inserter.csprojResolveAssemblyReference.cache
+D:\C#\Head Project Worck\ISchool\Inserter\bin\Debug\Inserter.exe.config
+D:\C#\Head Project Worck\ISchool\Inserter\obj\Debug\Inserter.csproj.ResolveComReference.cache
+D:\C#\Head Project Worck\ISchool\Inserter\obj\Debug\Inserter.exe
+D:\C#\Head Project Worck\ISchool\Inserter\obj\Debug\Inserter.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="obksdatabaserrEntities-Web.config Connection String" description="obksdatabaserrEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/DataBasePart.db.csdl|res://*/DataBasePart.db.ssdl|res://*/DataBasePart.db.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=mssql4.gear.host;initial catalog=obksdatabaserr;user id=obksdatabaserr;password=Ut5Fwn7Jl!R~;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Eltay\\documents\\visual\ studio\ 2015\\Projects\\ISchool\\ISchool\.WebService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='obksdatabaserrEntities']/@connectionString" />
+  </parameter>
+</parameters>

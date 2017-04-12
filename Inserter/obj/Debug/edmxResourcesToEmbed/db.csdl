@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="school_i_dbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="st_students">
+    <Key>
+      <PropertyRef Name="st_acc" />
+    </Key>
+    <Property Name="st_acc" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="st_name" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="st_national_number" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="st_subject1" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject1_place" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject2" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject2_place" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject3" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject3_place" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject4" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject4_place" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject5" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject5_place" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject6" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject6_place" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject7" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject7_place" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject8" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="st_subject8_place" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="school_i_dbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="st_students" EntityType="Self.st_students" />
+  </EntityContainer>
+</Schema>
