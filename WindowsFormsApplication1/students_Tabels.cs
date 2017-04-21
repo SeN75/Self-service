@@ -7,10 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MetroFramework.Forms;
+
 
 namespace WindowsFormsApplication1
 {
-    public partial class students_Tabels : Form
+    public partial class students_Tabels : MetroForm
     {
        public static  void deleteall() {
             s1 = null;

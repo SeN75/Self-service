@@ -8,11 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.OleDb;
+using MetroFramework.Forms;
 
 
 namespace WindowsFormsApplication1
 {
-    public partial class Arabic : Form
+    public partial class Arabic : MetroForm
     {
 
 
