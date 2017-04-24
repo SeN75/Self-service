@@ -24,7 +24,9 @@ namespace WindowsFormsApplication1
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            System.Threading.Thread.Sleep(400);
+            MessageBox.Show("عفواً السيرفر مغلق حاليا الرجاء المحاولة في وقت لاحق", "عفوا", MessageBoxButtons.OK, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button1, MessageBoxOptions.RightAlign);
+            return;
             if (string.IsNullOrWhiteSpace(textBox1.Text))
                 return;
             try
@@ -270,8 +272,9 @@ namespace WindowsFormsApplication1
 
         private void button5_Click(object sender, EventArgs e)
         {
-
-
+            System.Threading.Thread.Sleep(400);
+            MessageBox.Show("عفواً السيرفر مغلق حاليا الرجاء المحاولة في وقت لاحق", "عفوا", MessageBoxButtons.OK, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button1, MessageBoxOptions.RightAlign);
+            return;
             try
             {
                 if (string.IsNullOrWhiteSpace(textBox2.Text))

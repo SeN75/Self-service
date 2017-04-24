@@ -52,3 +52,5 @@ D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Release\الخدمة 
 D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.application
 D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe
 D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Release\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.pdb
+D:\Mains Project\Self-service\WindowsFormsApplication1\bin\Release\MetroFramework.dll
+D:\Mains Project\Self-service\WindowsFormsApplication1\bin\Release\MetroFramework.Fonts.dll

@@ -168,3 +168,22 @@ C:\Users\user\Desktop\Self-service\WindowsFormsApplication1\obj\Debug\الخدم
 C:\Users\user\Desktop\Self-service\WindowsFormsApplication1\obj\Debug\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.application
 C:\Users\user\Desktop\Self-service\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
 C:\Users\user\Desktop\Self-service\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+D:\Mains Project\Self-service\WindowsFormsApplication1\bin\Debug\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe.config
+D:\Mains Project\Self-service\WindowsFormsApplication1\bin\Debug\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe.manifest
+D:\Mains Project\Self-service\WindowsFormsApplication1\bin\Debug\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.application
+D:\Mains Project\Self-service\WindowsFormsApplication1\bin\Debug\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe
+D:\Mains Project\Self-service\WindowsFormsApplication1\bin\Debug\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.pdb
+D:\Mains Project\Self-service\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+D:\Mains Project\Self-service\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Start.resources
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Arabic.resources
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.students_Tabels.resources
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe.manifest
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.application
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.exe
+D:\Mains Project\Self-service\WindowsFormsApplication1\obj\Debug\الخدمة الذاتية لزوار ثانوية عمر بن الخطاب.pdb
